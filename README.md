@@ -4,6 +4,8 @@
 
 Webapps for the Spotify Car Thing running [bridgething](https://bridgething.com).
 
+> AI Disclosour. This was, obviously, mostly vibecoded. That much is no secret. Use at your own risk, I just wanted this app to be a thing lol. Oh, and I have no idea how to spell disclosure correctly
+
 ## First run
 
 1. Push this repo to `https://github.com/ItsRiprod/vidthing`.

@@ -1,8 +1,8 @@
 {
   "id": "01a11c9d-c2ec-72e4-bef1-178a38ee41fa",
   "name": "vidthing",
-  "version": "0.1.0",
-  "description": "Your own wallpaper (GIFs too) with a customizable clock and media controls on top.",
+  "version": "0.1.1",
+  "description": "The simple yet effective customizable webapp for your BridgeThing companion",
   "settings": "settings.html",
   "config": [],
   "permissions": [],

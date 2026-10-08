@@ -13,7 +13,7 @@ The shipped declarations carry a doc comment on every method, event, and field.
 grep -n 'class PlayerSurface' -A40 node_modules/@bridgething/client/dist/dispatch.generated.d.ts
 grep -n 'export type PlayerState ' -A12 node_modules/@bridgething/lib/dist/bindings/shared.d.ts
 ```
-
+ 
 ## Connect
 
 ```ts
