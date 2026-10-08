@@ -1,7 +1,7 @@
 {
   "$schema": "https://apps.bridgething.com/schemas/catalog/v1.json",
   "schema": "catalog.v1",
-  "updated_at": "2026-10-08T23:05:07.606Z",
+  "updated_at": "2026-10-08T23:39:59.135Z",
   "repo": {
     "name": "vidthing",
     "description": "Custom wallpaper, clock and media controls for the Car Thing",
@@ -12,12 +12,29 @@
     {
       "id": "01a11c9d-c2ec-72e4-bef1-178a38ee41fa",
       "name": "vidthing",
-      "description": "Your own wallpaper (GIFs too) with a customizable clock and media controls on top.",
+      "description": "The simple yet effective customizable webapp for your BridgeThing companion",
       "author": "Riprod",
       "icon": null,
       "homepage": "https://github.com/ItsRiprod/vidthing",
       "source": "https://github.com/ItsRiprod/vidthing",
       "versions": [
+        {
+          "version": "0.1.1",
+          "released_at": "2026-10-08T23:39:59.132Z",
+          "download": {
+            "url": "https://itsriprod.github.io/vidthing/r/01a11c9d-c2ec-72e4-bef1-178a38ee41fa/0.1.1.zip",
+            "size": 916181,
+            "sha256": "1294a168294d25eaf47d80e6ce54839f9e2ddd4d73c0b2738496744ef52b732b"
+          },
+          "settings": {
+            "url": "https://itsriprod.github.io/vidthing/s/01a11c9d-c2ec-72e4-bef1-178a38ee41fa/0.1.1.html",
+            "size": 49599,
+            "sha256": "3ae9ea5d4587f81c52ce0f167963c7fbf3569a92d986399911fa60af783f7c5b"
+          },
+          "permissions": [],
+          "min_libbridgething_version": "0.12.5",
+          "changelog": "Updated settings page for mobile consideration"
+        },
         {
           "version": "0.1.0",
           "released_at": "2026-10-08T23:05:07.603Z",
