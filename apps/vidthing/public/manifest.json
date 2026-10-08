@@ -1,0 +1,13 @@
+{
+  "id": "01a11c9d-c2ec-72e4-bef1-178a38ee41fa",
+  "name": "vidthing",
+  "version": "0.1.0",
+  "description": "Your own wallpaper (GIFs too) with a customizable clock and media controls on top.",
+  "settings": "settings.html",
+  "config": [],
+  "permissions": [],
+  "art": {
+    "heroPx": 248,
+    "thumbPx": 96
+  }
+}
