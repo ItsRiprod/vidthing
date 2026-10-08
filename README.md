@@ -1,6 +1,6 @@
-# **SOURCE_NAME**
+# **VidThing**
 
-**SOURCE_DESCRIPTION**
+**Simply Play**
 
 Webapps for the Spotify Car Thing running [bridgething](https://bridgething.com).
 
