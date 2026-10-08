@@ -1,0 +1,42 @@
+{
+  "$schema": "https://apps.bridgething.com/schemas/catalog/v1.json",
+  "schema": "catalog.v1",
+  "updated_at": "2026-10-08T23:05:07.606Z",
+  "repo": {
+    "name": "vidthing",
+    "description": "Custom wallpaper, clock and media controls for the Car Thing",
+    "homepage": "https://github.com/ItsRiprod/vidthing",
+    "icon": null
+  },
+  "apps": [
+    {
+      "id": "01a11c9d-c2ec-72e4-bef1-178a38ee41fa",
+      "name": "vidthing",
+      "description": "Your own wallpaper (GIFs too) with a customizable clock and media controls on top.",
+      "author": "Riprod",
+      "icon": null,
+      "homepage": "https://github.com/ItsRiprod/vidthing",
+      "source": "https://github.com/ItsRiprod/vidthing",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "released_at": "2026-10-08T23:05:07.603Z",
+          "download": {
+            "url": "https://itsriprod.github.io/vidthing/r/01a11c9d-c2ec-72e4-bef1-178a38ee41fa/0.1.0.zip",
+            "size": 916126,
+            "sha256": "2dc95be3de3c986ebae601f51581b0182728b5edd2db099eb696aafd0d435c7d"
+          },
+          "settings": {
+            "url": "https://itsriprod.github.io/vidthing/s/01a11c9d-c2ec-72e4-bef1-178a38ee41fa/0.1.0.html",
+            "size": 49380,
+            "sha256": "3c34fd90803670c956e4ee0efdb1a7f1bc2479d54146a36ed8605cde9a24fcaf"
+          },
+          "permissions": [],
+          "min_libbridgething_version": "0.12.5",
+          "changelog": "First release. Upload a still, GIF, animated WebP or APNG background from the companion app, with a clock, song title\nand media controls on top. Four layout slots on preset buttons 1-4, the dial changes volume."
+        }
+      ]
+    }
+  ],
+  "recommended_sources": []
+}
